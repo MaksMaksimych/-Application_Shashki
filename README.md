@@ -1,4 +1,4 @@
-#Figure_checkers - изображения шашек
+Figure_checkers - изображения шашек
 ***
 Authorization.exe - приложение
 ***
